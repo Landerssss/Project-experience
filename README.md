@@ -1,6 +1,6 @@
 # Project-experience
-曾参与制作过的游戏合集，仅提供实机演示
-1.平面类
+Unity游戏原型开发经历合集，仅提供实机演示
+-1.平面类
 
 https://github.com/user-attachments/assets/6505f625-38e2-4082-bf9d-9848b460770b
 
